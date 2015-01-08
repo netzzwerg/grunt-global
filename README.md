@@ -1,0 +1,2 @@
+# grunt-global
+global grunt
